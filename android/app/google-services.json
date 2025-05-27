@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "579894831653",
+    "project_id": "parksmart-9a8a4",
+    "storage_bucket": "parksmart-9a8a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579894831653:android:fc03eccdfc6324372a2dcc",
+        "android_client_info": {
+          "package_name": "com.example.park_smart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4YoyFMnzIV7Pv7C3VT8B5URGBpZ8Kmzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
