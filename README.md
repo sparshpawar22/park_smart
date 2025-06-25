@@ -1,16 +1,28 @@
-# park_smart
+# Park Smart
 
-A new Flutter project.
+A smart parking locator app that helps users find and reserve the nearest available parking spots. Integrates Firebase for auth and real-time geolocation with route navigation.
 
-## Getting Started
+## 🌟 Features
+- Login with Google via Firebase
+- Real-time map with available parking spots
+- Distance-based nearest spot suggestion
+- Manual spot selection option
+- Route navigation via OpenRouteService
+- Booking history saved using Firestore
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter
+- Firebase Auth & Firestore
+- Google Maps API
+- OpenRouteService API
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🔧 Setup
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Create a Firebase project and enable Google Sign-In
+2. Clone this repo and run:
+
+```bash
+flutter pub get
+flutter run
+
